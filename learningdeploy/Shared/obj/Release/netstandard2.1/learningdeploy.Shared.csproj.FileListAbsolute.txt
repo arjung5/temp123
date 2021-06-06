@@ -1,0 +1,9 @@
+E:\leaningnetlify\learningdeploy\learningdeploy\Shared\bin\Release\netstandard2.1\learningdeploy.Shared.deps.json
+E:\leaningnetlify\learningdeploy\learningdeploy\Shared\bin\Release\netstandard2.1\learningdeploy.Shared.dll
+E:\leaningnetlify\learningdeploy\learningdeploy\Shared\bin\Release\netstandard2.1\learningdeploy.Shared.pdb
+E:\leaningnetlify\learningdeploy\learningdeploy\Shared\obj\Release\netstandard2.1\learningdeploy.Shared.csprojAssemblyReference.cache
+E:\leaningnetlify\learningdeploy\learningdeploy\Shared\obj\Release\netstandard2.1\learningdeploy.Shared.AssemblyInfoInputs.cache
+E:\leaningnetlify\learningdeploy\learningdeploy\Shared\obj\Release\netstandard2.1\learningdeploy.Shared.AssemblyInfo.cs
+E:\leaningnetlify\learningdeploy\learningdeploy\Shared\obj\Release\netstandard2.1\learningdeploy.Shared.csproj.CoreCompileInputs.cache
+E:\leaningnetlify\learningdeploy\learningdeploy\Shared\obj\Release\netstandard2.1\learningdeploy.Shared.dll
+E:\leaningnetlify\learningdeploy\learningdeploy\Shared\obj\Release\netstandard2.1\learningdeploy.Shared.pdb
